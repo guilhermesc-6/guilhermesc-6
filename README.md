@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Guilherme Carvalho.</h1>  
 <h3 align="center">A passionate self-learner frontend developer from Brazil 🇧🇷.</h3>   
   
-- 🌱 I’m currently learning **React, JavaScript Full Stack.**  
+- 🌱 I’m currently learning **<a href='https://www.theodinproject.com/paths/full-stack-javascript' target='_blank' rel="noreferrer" >Full Stack JavaScript at The Odin Project.</a>**  
   
 - 📫 How to reach me **guilherme.carvalhode@gmail.com**  
   
