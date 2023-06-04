@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Guilherme Carvalho.</h1>  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!%F0%9F%91%8B%F0%9F%8F%BC+i'm+Guilherme+)](https://git.io/typing-svg)
 <h3 align="center">A passionate self-learner frontend developer from Brazil 🇧🇷.</h3>   
   
 - 🌱 I’m currently learning **NodeJs, SQL.**  
